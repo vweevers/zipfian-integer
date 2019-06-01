@@ -5,7 +5,7 @@
   "license": "MIT",
   "author": "Vincent Weevers",
   "scripts": {
-    "test": "standard && hallmark",
+    "test": "standard && hallmark && node test/unit",
     "hallmark": "hallmark --fix"
   },
   "files": [
