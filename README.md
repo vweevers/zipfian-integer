@@ -43,15 +43,15 @@ const sample = zipfian(1, 100, 0.2, random)
 
 <table>
 <tr>
-  <td><img src="img/1.png" /></td>
+  <td><img src="https://raw.githubusercontent.com/vweevers/zipfian-integer/7f2a2b874e3bc068b48952c4e698ad3d9463e8c7/img/1.png" /></td>
   <td><sub><code>skew=1</code> vs <code>skew=-1</code></sub></td>
 </tr>
 <tr>
-  <td><img src="img/2.png" /></td>
+  <td><img src="https://raw.githubusercontent.com/vweevers/zipfian-integer/7f2a2b874e3bc068b48952c4e698ad3d9463e8c7/img/2.png" /></td>
   <td><sub><code>skew=1</code> vs <code>skew=-1</code>, same seed</sub></td>
 </tr>
 <tr>
-  <td><img src="img/3.png" /></td>
+  <td><img src="https://raw.githubusercontent.com/vweevers/zipfian-integer/7f2a2b874e3bc068b48952c4e698ad3d9463e8c7/img/3.png" /></td>
   <td><sub><code>skew=0</code></sub></td>
 </tr>
 </table>
