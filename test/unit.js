@@ -26,3 +26,18 @@ test('negative min', function (t) {
   t.ok(zipfian(-10, -5, 0)() <= -5)
   t.end()
 })
+
+// TODO: verify this in the java test
+test('skew > 1', function (t) {
+  t.is(zipfian(0, 9, 2, random())(), 1, '2')
+  t.is(zipfian(0, 9, 3, random())(), 0, '3')
+  t.is(zipfian(0, 9999999, 2, random())(), 1, '2')
+  t.is(zipfian(0, 9999999, 3, random())(), 0, '3')
+
+  t.is(zipfian(0, 9, -2, random())(), 8, '-2')
+  t.is(zipfian(0, 9, -3, random())(), 9, '-3')
+  t.is(zipfian(0, 9999999, -2, random())(), 9999998, '-2')
+  t.is(zipfian(0, 9999999, -3, random())(), 9999999, '-3')
+
+  t.end()
+})

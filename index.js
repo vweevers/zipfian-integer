@@ -10,8 +10,6 @@ module.exports = function zipfian (min, max, skew, rng) {
     throw new RangeError('The second argument "max" must be >= the "min" argument')
   } else if (!Number.isFinite(skew)) {
     throw new TypeError('The third argument "skew" must be a number')
-  } else if (skew < -1 || skew > 1) {
-    throw new RangeError('The third argument "skew" must be >= -1 <= 1')
   }
 
   const n = max - min + 1
