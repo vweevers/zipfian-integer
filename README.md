@@ -73,7 +73,7 @@ The algorithm is fast, accurate and has a constant memory footprint. Other solut
   <td><sub><code>skew=1</code> vs <code>skew=-1</code></sub></td>
 </tr>
 <tr>
-  <td><img src="img/1b.png" /></td>
+  <td><img src="https://raw.githubusercontent.com/vweevers/zipfian-integer/72014f2434d05f2874f3b1434952b017de8889e5/img/1b.png" /></td>
   <td><sub><code>skew=2</code> vs <code>skew=-2</code></sub></td>
 </tr>
 <tr>
