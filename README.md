@@ -6,7 +6,7 @@
 [![npm status](http://img.shields.io/npm/v/zipfian-integer.svg)](https://www.npmjs.org/package/zipfian-integer)
 [![node](https://img.shields.io/node/v/zipfian-integer.svg)](https://www.npmjs.org/package/zipfian-integer)
 [![Travis build status](https://img.shields.io/travis/vweevers/zipfian-integer.svg?label=travis)](http://travis-ci.org/vweevers/zipfian-integer)
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Greenkeeper badge](https://badges.greenkeeper.io/vweevers/zipfian-integer.svg)](https://greenkeeper.io/)
 
 ## Table of Contents
 
