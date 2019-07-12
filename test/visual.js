@@ -56,7 +56,7 @@ module.exports = generate
 
 if (!module.parent) {
   const pmr = require('pseudo-math-random')
-  const [ width, height ] = [600, 200]
+  const [width, height] = [600, 200]
   const options1 = { width, height }
   const options1b = { width, height, skewA: 2, skewB: -2, doublePass: false }
   const options2 = { width, height, mirror: true, mono: true }
