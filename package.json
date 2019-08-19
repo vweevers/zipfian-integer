@@ -19,7 +19,7 @@
     "pseudo-math-random": "^1.0.0",
     "readable-stream": "^3.4.0",
     "split2": "^3.1.1",
-    "standard": "^13.0.1",
+    "standard": "^14.0.0",
     "tape": "^4.10.2"
   },
   "keywords": [
