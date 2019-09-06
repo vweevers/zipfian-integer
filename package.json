@@ -14,7 +14,7 @@
   "dependencies": {},
   "devDependencies": {
     "benchmark": "^2.1.4",
-    "hallmark": "^1.0.0",
+    "hallmark": "^2.0.0",
     "jimp": "^0.6.4",
     "pseudo-math-random": "^1.0.0",
     "readable-stream": "^3.4.0",
