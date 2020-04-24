@@ -20,7 +20,7 @@
     "readable-stream": "^3.4.0",
     "split2": "^3.1.1",
     "standard": "^14.0.0",
-    "tape": "^4.10.2"
+    "tape": "^5.0.0"
   },
   "keywords": [
     "distribution",
