@@ -16,8 +16,12 @@
 - [About](#about)
 - [Visual Example](#visual-example)
 - [API](#api)
+  - [`sample = zipfian(min, max, skew[, rng])`](#sample--zipfianmin-max-skew-rng)
+  - [`num = sample()`](#num--sample)
 - [Install](#install)
 - [Development](#development)
+  - [Verify](#verify)
+  - [Benchmark](#benchmark)
 - [License](#license)
 
 </details>
